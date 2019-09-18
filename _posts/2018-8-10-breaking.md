@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Breaking Point
 ---
 
