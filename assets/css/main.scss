@@ -1,0 +1,8 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "main_base/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "main_base"; // main partials
