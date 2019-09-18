@@ -6,17 +6,17 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Theme Settings
-remote_theme           : "mmistakes/minimal-mistakes@4.16.6"
+theme                  : "main_base_jekyll"
 main_base_skin    : "dark_theme"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ruben0s - Network Engineer | CTF starter | InfoSec passionate"
+title                    : "Site Title"
 title_separator          : "-"
 name                     : "ruben0s"
 description              : "Network Engineer | CTF starter | InfoSec passionate"
 url                      : "https://rbnmaia.github.io"
-baseurl                  : "/"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rbnmaia/rbnmaia.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -95,21 +95,21 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : UA-67087706-1
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Ruben Maia"
-  avatar           : "/assets/images/me.jpg"
+  avatar           : https://raw.githubusercontent.com/rbnmaia/rbnmaia.github.io/master/images/icon-circuit-board.png
   bio              : "Network Engineer | CTF starter | InfoSec passionate"
   location         : "Krakow, Poland"
   email            : "maia.ruben@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:maia.ruben@gmail.com
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,13 +118,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/rbnmaia"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rbnmaia"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/rubenfmaia"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -134,10 +134,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/rbnmaia"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rbnmaia"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/rubenfmaia"
+      # url:
 
 
 # Reading Files
@@ -227,7 +227,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -237,7 +236,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 
 # Archives
@@ -279,6 +277,13 @@ compress_html:
 
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""
