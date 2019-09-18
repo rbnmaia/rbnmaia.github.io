@@ -1,14 +1,12 @@
 # main links
 main:
   - title: "Blog"
-    url: https://mmistakes.github.io/blog/
-    - title: "Projects"
+    url: https://rbnmia.github.io/blog/
+  - title: "Projects"
     url: https://rbnmaia.github.io/projects/
   - title: "Write-Ups"
     url: https://rbnmaia.github.io/writeups/
-    - title: "About"
-    url: https://rbnmaia.github.io/about/
-    - title: "About"
+   - title: "About"
     url: https://rbnmaia.github.io/about/
   # - title: "Sitemap"
   #   url: /sitemap/
