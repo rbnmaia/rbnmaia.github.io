@@ -11,7 +11,7 @@ main_base_skin    : "dark_theme"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "ruben0s - Network Engineer | CTF starter | InfoSec passionate"
 title_separator          : "-"
 name                     : "ruben0s"
 description              : "Network Engineer | CTF starter | InfoSec passionate"
@@ -95,21 +95,21 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-67087706-1
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Ruben Maia"
-  avatar           : https://raw.githubusercontent.com/rbnmaia/rbnmaia.github.io/master/images/icon-circuit-board.png
+  avatar           : "assets/images/me.jpg"
   bio              : "Network Engineer | CTF starter | InfoSec passionate"
   location         : "Krakow, Poland"
   email            : "maia.ruben@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:maia.ruben@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,13 +118,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/rbnmaia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/rbnmaia"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/rubenfmaia"
 
 # Site Footer
 footer:
@@ -134,10 +134,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/rbnmaia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/rbnmaia"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/rubenfmaia"
 
 
 # Reading Files
