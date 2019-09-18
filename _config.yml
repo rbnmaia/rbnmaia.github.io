@@ -11,7 +11,7 @@ main_base_skin    : "dark_theme"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ruben0s - Network Engineer | CTF starter | InfoSec passionate"
+title                    : "ruben0s bl0g"
 title_separator          : "-"
 name                     : "ruben0s"
 description              : "Network Engineer | CTF starter | InfoSec passionate"
