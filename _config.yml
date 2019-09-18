@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Theme Settings
-theme                  : "main_base_jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.16.6"
 main_base_skin    : "dark_theme"
 
 # Site Settings
