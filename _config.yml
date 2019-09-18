@@ -95,14 +95,14 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-67087706-1
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Ruben Maia"
-  avatar           : https://raw.githubusercontent.com/rbnmaia/rbnmaia.github.io/master/images/icon-circuit-board.png
+  avatar           : "https://raw.githubusercontent.com/rbnmaia/rbnmaia.github.io/master/images/icon-circuit-board.png"
   bio              : "Network Engineer | CTF starter | InfoSec passionate"
   location         : "Krakow, Poland"
   email            : "maia.ruben@gmail.com"
