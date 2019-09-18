@@ -12,7 +12,7 @@ main_base_skin    : "dark_theme"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "ruben0s - Network Engineer | CTF starter | InfoSec passionate"
 title_separator          : "-"
 name                     : "ruben0s"
 description              : "Network Engineer | CTF starter | InfoSec passionate"
@@ -228,6 +228,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -237,6 +238,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 
 # Archives
