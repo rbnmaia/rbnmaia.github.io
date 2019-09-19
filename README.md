@@ -6,7 +6,7 @@ Personal page/blog
 [![Website rbnmaia io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://rbnmaia.github.io/)
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/rbnmaia/rbnmaia.github.io.svg)
 ![GiHub Issues](https://img.shields.io/github/issues/rbnmaia/rbnmaia.github.io.svg)
-![GitHub commit merge status](https://img.shields.io/github/commit-status/rbnmaia/rbnmaia.github.io/master/70.svg)
+![GitHub commit merge status](https://img.shields.io/github/commit-status/rbnmaia/rbnmaia.github.io/master.svg)
 
 Welcome to my blog/personal page where you can find my latest activity.
 
