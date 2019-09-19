@@ -3,7 +3,7 @@ main:
   - title: "Posts"
     url: /
   - title: "Write-Ups"
-    url: /writeups/
+    url: /_writeups/
   - title: "Projects"
     url: /projects/
   - title: "About"
