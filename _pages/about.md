@@ -1,6 +1,9 @@
 ---
 title: About
 permalink: /about/
+toc: true
+toc_label: "My Info"
+toc_icon: "cog"
 ---
 
 Welcome to my blog/personal page where you can find my latest activity.
