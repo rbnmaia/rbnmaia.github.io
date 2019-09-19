@@ -33,4 +33,4 @@ Set-up-Box Exploitation Framework &nbsp;&nbsp;[<img href="https://github.com/rbn
 This tool was developed to analyze and present the current vulnerabilities on Set-up-Boxes.
 The concept is to unify in a tool all the known 0 days or other vulnerabilities ignored by brands/vendors.
 
-Inspired in IoT Exploitation Framework - Routersploit.
+Inspired in IoT Exploitation Framework - <a href="https://github.com/threat9/routersploit" rel="nofollow">RouterSploit</a>.
