@@ -9,7 +9,7 @@ Currently working/maintaning the following projects. Also feel free to check the
 
 ## Street Workout PT
 
-MEI-CM Project &nbsp;&nbsp;[<img href="https://github.com/rbnmaia/StreetWorkout_PT/blob/master/README.md" src="{{ site.baseurl }}/assets/images/notes.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
+MEI-CM Project &nbsp;&nbsp;<a href="https://github.com/rbnmaia/StreetWorkout_PT/blob/master/README.md">[<img src="{{ site.baseurl }}/assets/images/notes.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)</a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rbnmaia/StreetWorkout_PT/blob/master/LICENSE.md)
 [![GitHub release](https://img.shields.io/github/release/rbnmaia/StreetWorkout_PT.svg)](https://github.com/rbnmaia/StreetWorkout_PT/release/)
@@ -25,7 +25,7 @@ Currently only available for iOS. Working into an Android port.
 
 ## STBXploit
 
-Set-up-Box Exploitation Framework &nbsp;&nbsp;[<img href="https://github.com/rbnmaia/stbxploit/blob/master/README.md" src="{{ site.baseurl }}/assets/images/notes.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
+Set-up-Box Exploitation Framework &nbsp;&nbsp;<a href="https://github.com/rbnmaia/stbxploit/blob/master/README.md">[<img src="{{ site.baseurl }}/assets/images/notes.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)</a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python : 2.7](https://img.shields.io/badge/Python-2.7-yellow.svg)]()
