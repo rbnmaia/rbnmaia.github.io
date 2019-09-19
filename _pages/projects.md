@@ -7,7 +7,7 @@ Currently working/maintaning the following projects. Also feel free to check the
 
 
 
-## Street Workout PT
+## Street Workout PT [<img href="/" src="{{ site.baseurl }}/assets/images/note.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
 
 MEI-CM Project
 
@@ -23,7 +23,7 @@ Currently only available for iOS. Working into an Android port.
 
 
 
-## STBXploit
+## STBXploit [<img href="/" src="{{ site.baseurl }}/assets/images/note.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
 
 Set-up-Box Exploitation Framework
 
