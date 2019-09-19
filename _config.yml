@@ -300,5 +300,5 @@ defaults:
       path: ""
       type: writeup
     values:
-      layout: writeups
+      layout: archive
       author_profile: true
