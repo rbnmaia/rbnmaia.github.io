@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 toc: true
 toc_label: "My Info"
-toc_icon: "cog"
+toc_icon: "business-time"
 ---
 
 Welcome to my blog/personal page where you can find my latest activity.
