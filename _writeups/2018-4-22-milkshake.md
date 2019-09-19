@@ -1,5 +1,8 @@
 ---
 title: Milkshake
+toc: true
+toc_label: "My Procedure"
+toc_icon: "cog"
 ---
 
 
