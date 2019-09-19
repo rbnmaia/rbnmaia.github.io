@@ -7,9 +7,9 @@ Currently working/maintaning the following projects. Also feel free to check the
 
 
 
-## Street Workout PT %nbsp;%nbsp; [<img href="/" src="{{ site.baseurl }}/assets/images/note.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
+## Street Workout PT
 
-MEI-CM Project
+MEI-CM Project &nbsp;&nbsp;[<img href="/" src="{{ site.baseurl }}/assets/images/notes.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/rbnmaia/StreetWorkout_PT/blob/master/LICENSE.md)
 [![GitHub release](https://img.shields.io/github/release/rbnmaia/StreetWorkout_PT.svg)](https://github.com/rbnmaia/StreetWorkout_PT/release/)
@@ -23,9 +23,9 @@ Currently only available for iOS. Working into an Android port.
 
 
 
-## STBXploit %nbsp;%nbsp; [<img href="/" src="{{ site.baseurl }}/assets/images/note.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
+## STBXploit
 
-Set-up-Box Exploitation Framework
+Set-up-Box Exploitation Framework &nbsp;&nbsp;[<img href="/" src="{{ site.baseurl }}/assets/images/notes.png" alt="documentation" style="height: 32px; width: 32px;"/>]({{ site.baseurl }}/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python : 2.7](https://img.shields.io/badge/Python-2.7-yellow.svg)]()
