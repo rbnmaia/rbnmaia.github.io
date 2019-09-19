@@ -34,10 +34,3 @@ This tool was developed to analyze and present the current vulnerabilities on Se
 The concept is to unify in a tool all the known 0 days or other vulnerabilities ignored by brands/vendors.
 
 Inspired in IoT Exploitation Framework - Routersploit.
-
-
-
-```
-Tip: Add the project name after my personal page and you will get the HTML content, I'm using Github pages.
-```
-
