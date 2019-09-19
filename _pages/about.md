@@ -2,8 +2,8 @@
 title: About
 permalink: /about/
 toc: true
-toc_label: "My Info"
-toc_icon: "business-time"
+toc_label: "Personal Info"
+toc_icon: "address-card"
 ---
 
 Welcome to my blog/personal page where you can find my latest activity.
