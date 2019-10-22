@@ -1,4 +1,7 @@
-** 101 Attack Surfaces **
+---
+title: 101 Attack Surfaces
+---
+
 
 In the simplest terms, the “attack surface” is the sum total of resources exposed to exploit within your enterprise. Defending the attack surface was a lot less complicated when a defined corporate “perimeter” existed, neatly separating a company’s assets from the outside world.
 
