@@ -2,23 +2,33 @@
 title: 101 Attack Surfaces
 ---
 
+Recently I was asked about the following - "Which of the following is accomplished by reducing the attack surface within the network?", so I found interesting to share a few points regarding this subject.
 
-In the simplest terms, the “attack surface” is the sum total of resources exposed to exploit within your enterprise. Defending the attack surface was a lot less complicated when a defined corporate “perimeter” existed, neatly separating a company’s assets from the outside world.
+In crumbs, we can define the "attack surface" as the sum total of resources exposed to exploit within your network. Defending the attack surface was a lot less complicated when a defined corporate “perimeter” existed, neatly separating a company’s assets from the outside world. This paradigm shifted into the cloud and software-defined networking.
 
-But, next-gen technologies (e.g., cloud computing and software-defined networking) have dissolved the perimeter, causing the attack surface to grow exponentially. The Internet of Things (IoT) is a good example of how the window of opportunity for cybercriminals has been blown wide open. Any device connected to the internet can now be the target of a cyberattack.
+The idea of a contained perimeter is completely obsolete for today's information era. We quickly as technology progresses moved into networks boarding a lot of IoT (Internet of Things) devices or even corporate users bringing their devices in (Bring Your Own Device), the combination of both significantly increased our attack surfaces.
 
-In this era of complex infrastructures and sophisticated malware, we must stay laser-focused on reducing the attack surface to limit the opportunities available to cybercriminals. Here are five ways to do so.  
+Take the example of IoT, in my opinion these devices are a "ticking bomb", there are a few restraints when they are being developed and security is an example of what is ignored during the process. It reminds me the software time-to-market business model, where publishers prefer to release a bugged software to meet their schedule and patch it later, rather than have a crisp quality product. We moved at a fast pace to the era that any device connected to the internet can now be the target of a cyberattack.
 
+Everyone likes numbers and for sure at least if my awareness wasn't enough let me share you Symantec’s 2019 Internet Security Threat Report, that takes a deep dive into insights from the world’s largest civilian global intelligence network, revealing:
+
+> * Formjacking attacks skyrocketed, with an average of 4,800 websites compromised each month.
+> * Ransomware shifted targets from consumers to enterprises, where infections rose 12 percent.
+> * More than 70 million records stolen from poorly configured S3 buckets, a casualty of rapid cloud adoption.
+> * Supply chains remained a soft target with attacks ballooning by 78 percent.
+> * “Smart Speaker, get me a cyber attack” — IoT was a key entry point for targeted attacks; most IoT devices are vulnerable.
  
+
+From a lot of other ways to decrease this surfaces, let me share some effecient ones:
 
 1. Eliminate Complexity
 
 One of the most impactful ways to reduce the attack surface is by eliminating unnecessary complexity, which can creep into the best of networks over time. Complexity is often the result of poor policy management or incomplete information during rule creation, which can lead to:
 
-Technical policy mistakes (e.g., duplicate or redundant rules)
-Unused rules that have become stagnant and no longer serve a valid purpose
-Overly permissive rule definitions that allow access well beyond what is necessary to meet business needs
-Unnecessary complexity elevates the possibility of human error and risk, underscoring the importance of simplicity in security infrastructures and policy management.
+ * Technical policy mistakes (e.g., duplicate or redundant rules)
+ * Unused rules that have become stagnant and no longer serve a valid purpose
+ * Overly permissive rule definitions that allow access well beyond what is necessary to meet business needs
+ * Unnecessary complexity elevates the possibility of human error and risk, underscoring the importance of simplicity in security infrastructures and policy management.
 
  
 
@@ -26,9 +36,12 @@ Unnecessary complexity elevates the possibility of human error and risk, undersc
 
 Vulnerability scanners give a severity score to a specific asset, application or host, but the score is incomplete without showing how an attacker could reach the weak spots. Visualizing vulnerabilities by creating a real-time model of what could happen in the context of network movement can provide this missing context. There are three methods that can greatly assist with this:
 
-Attack surface modeling – Creates a real-world model of the attack surface using: 1) network assets, or the prime targets for cybercriminals); 2) network topologies, which demonstrate the potential paths to a vulnerable asset; and 3) policies, which dictate what access is permitted.
-Attack simulation – Reveals the ways attackers could traverse the network and exploit vulnerabilities.
-Patch simulation – Pairs with network policy to identify which patches could have the greatest impact on security (i.e., helps focus efforts on reducing the greatest amount of risk in the most efficient way possible).
+* Attack surface modeling – Creates a real-world model of the attack surface using: 
+  1. network assets, or the prime targets for cybercriminals); 
+  2. network topologies, which demonstrate the potential paths to a vulnerable asset; 
+  3. policies, which dictate what access is permitted.
+* Attack simulation – Reveals the ways attackers could traverse the network and exploit vulnerabilities.
+* Patch simulation – Pairs with network policy to identify which patches could have the greatest impact on security (i.e., helps focus efforts on reducing the greatest amount of risk in the most efficient way possible).
  
 
 3. Control Your Endpoints
