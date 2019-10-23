@@ -110,9 +110,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maia.ruben@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/rbnmaia"
@@ -281,10 +278,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _pages
+  # _writeups
   - scope:
       path: ""
-      type: writeup
+      type: writeups
     values:
       layout: archive
       author_profile: true
