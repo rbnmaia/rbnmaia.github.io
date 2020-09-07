@@ -11,20 +11,26 @@ Welcome to my blog/personal page where you can find my latest activity.
 
 ### Working Experience
 
+#### Customer Success Specialist
+
+* Cisco Systems, Inc.
+* Krakow, Poland
+* 2019/10 - Present
+* EMEAR Security Team
 
 #### Senior Production Support Engineer
 
 * HSBC - Global Software Deliver
 * Krakow, Poland
-* 2019 - Present
+* 2019/02 - 2019/09
 * Financial Crime and Threat Mitigation
 
 #### Customer Experience Engineer
 
 * Cisco Systems, Inc.
 * Krakow, Poland
-* 2016 - 2019
-* AAA Security Solutions
+* 2016/09 - 2019/01
+* EMEAR TAC AAA Security Solutions
 
 
 ### Academic Information
@@ -42,6 +48,13 @@ Welcome to my blog/personal page where you can find my latest activity.
 * Leiria, Portugal
 * Computer and Software Engineering
 * 2010 - 2015
+
+### Certifications
+
+* CCNP Security
+* Cisco Implementing and Configuring Identity Services Engine Specialist
+* Cisco Security Core Specialist
+* Cisco DevNet Associate
 
 ### Publications
 
