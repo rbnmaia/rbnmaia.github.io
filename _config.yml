@@ -259,6 +259,9 @@ compress_html:
 
 #Collections
 collections:
+  posts:
+    output: true
+    permalink: /:collection/:path/
   writeups:
     output: true
     permalink: /:collection/:path/
