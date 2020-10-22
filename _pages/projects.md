@@ -1,8 +1,7 @@
 ---
-title: Projects
 layout: collection
-permalink: /projects/
+title: "Projects"
 collection: projects
-entries_layout: archive
-classes: wide
+permalink: /projects/
+author_profile: false
 ---
