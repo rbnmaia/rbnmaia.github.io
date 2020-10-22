@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: posts
 title: "CTF Challenges Walkthroughs"
 collection: writeups
 permalink: /writeups/
