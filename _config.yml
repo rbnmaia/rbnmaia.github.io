@@ -7,7 +7,7 @@
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@4.16.6"
-main_base_skin: "mint"
+main_base_skin: "mint_theme"
 
 # Site Settings
 locale                   : "en-US"
