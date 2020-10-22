@@ -1,8 +1,7 @@
 ---
-title: Write-Ups
 layout: collection
-permalink: /writeups/
+title: "CTF Challenges Walkthroughs"
 collection: writeups
-entries_layout: archive
-classes: wide
+permalink: /writeups/
+author_profile: false
 ---
