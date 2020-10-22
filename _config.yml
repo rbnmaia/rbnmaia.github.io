@@ -259,10 +259,10 @@ compress_html:
 
 #Collections
 collections:
-  - writeups:
+  writeups:
     output: true
     permalink: /:collection/:path/
-  - projects:
+  projects:
     output: true
     permalink: /:collection/:path/
     
@@ -291,6 +291,6 @@ defaults:
       path: ""
       type: writeups
     values:
-      layout: archive
+      layout: single
       author_profile: true
       read_time: true
