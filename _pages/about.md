@@ -51,6 +51,7 @@ Welcome to my blog/personal page where you can find my latest activity.
 
 ### Certifications
 
+* CCNA CyberOps
 * CCNP Security
 * Cisco Implementing and Configuring Identity Services Engine Specialist
 * Cisco Security Core Specialist
