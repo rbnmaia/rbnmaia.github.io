@@ -1,10 +1,8 @@
 ---
 title: Milkshake
-toc: true
-toc_label: "My Procedure"
-toc_icon: "cog"
 ---
 
+A challenge from HackTheBox for beginners in Steganography. At the moment this challenge was retired.
 
 ## Milkshake
 
