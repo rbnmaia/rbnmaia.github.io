@@ -1,11 +1,12 @@
 ---
-title: "Projects"
+title: Projects
 permalink: /projects/
-author_profile: false
 toc: true
 toc_label: "Projects"
-toc_icon: "tool"
+toc_icon: "tools"
 ---
+
+List of current maintained projects and collaborations.
 
 ### Street Workout PT
 
