@@ -165,9 +165,11 @@ content:
     layout: text
     content: |
       Alongside my job, I took time to certify myself into:
-      - CCNP Security
-      - CCNA CyberOps
-      - DevNet Associate
+      - Cisco Certified DevNet Associate
+      - Cisco Certified CyberOps Associate
+      - Cisco Certified Network Professional Security
+      - Cisco Certified Specialist - Security Identity Management Implementation
+      - Cisco Certified Specialist - Security Core
 
   - title: Languages
     layout: text
