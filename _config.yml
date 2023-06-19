@@ -44,7 +44,7 @@ youtube_username:
 # about_title: About Me
 about_profile_image: images/picture.png
 about_content: |
-  Hi, my name's Ruben and I'm a technical projects systems engineer. As well as implementing and configuring systems I also have experience making software and agile.
+  Hi, my name's Ruben and I'm a technical projects systems engineer. As well as implementing and configuring systems I also have experience making software using waterfall/agile methodologies.
 
   I build content oriented to Security Solutions for demo purposes to help pre and post sales teams as well as any of our partners to upskill within those labs.
 
@@ -57,7 +57,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Purple Pages
+        title: PurpleLists
         link: ruben-maia.gitbook.io/purplelists/
         # link_text: Project Website
         additional_links:
@@ -168,14 +168,22 @@ content:
       - CCNP Security
       - CCNA CyberOps
       - DevNet Associate
-        
+
+  - title: Languages
+    layout: text
+    content: |
+      In case you want to contact me, you can reach out in:
+      - English: Fluent
+      - French: Basic
+      - Portuguese: Native
+      
   - title: A Little More About Me
     layout: text
     content: |
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - CTFs
-            THM profile: https://tryhackme.com/p/rb3n0s
-            CTF time: https://ctftime.org/team/134736
+            - THM profile: https://tryhackme.com/p/rb3n0s
+            - CTF time: https://ctftime.org/team/134736
       - 80s/90s Action Movies/Series
       - Retro Computing/Gaming
       - Darts/Billiards
