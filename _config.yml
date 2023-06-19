@@ -86,8 +86,17 @@ content:
         sub_title: Technical Projects Systems Engineer
         caption: 2021 - Present
         quote: >
-        
+          GDE Security Practice - Poland
         description: |
+          - Design, build and implement to stakeholders specifications demo labs for Cisco Secure Portfolio.
+          - Proposed technical feasibility solutions for new system designs and suggested options for performance improvement of technical components.
+          - Documented system configuration, mapping and processes.
+          - Supported system users, educating employees on troubleshooting and problem-solving protocols.
+          - Conducted end-user reviews for modified and new systems.
+          - Suggested system updates or changes after conduct in-depth technical reviews.
+          - Optimized networked software and operating systems by applying updates and patches.
+          - Handled scripting tasks for debugging and automation using Python.
+          - Checked for accuracy and functionality during implementation of new systems.
       - layout: left
         title: Cisco Systems, Inc.
         link:
@@ -95,17 +104,31 @@ content:
         sub_title: Customer Success Specialist
         caption: 2019 - 2021
         quote: >
-        
+          Customer Support Specialist responsibilities include resolving customer queries, recommending solutions and guiding product users through features and functionalities.
         description: |
+          - Focused on supporting Cisco Security Portfolio: Cisco Identity Services Engine (ISE), Secure Network Analytics & Cloud Anayltics (SWE & SWC), Secure Endpoint (AMP4E), Secure Malware Analytics (TG), SecureX Threat Response (CTR), SecureX, Global Threat Alerts (CTA).
+          - Piloted projects for Healthchecks in AMP and ISE, helping SOC teams to create workflows.
+          - Provided proactive advice, support, guidance and education to customers on Threat Hunting and Incident Response.
+          - Interacting and planning solutions across teams and theaters on multicultural environments.
+          - Content creation for all referred technologies, process automation and lab environment guidance.
+          - Mentoring of new graduates and new hires.
+          - Global SME for Secure Endpoint in EMEAR and previously Regional SME for Identity Services Engine in EMEAR.
+          - Driving adoption around Cisco Security Portfolio and SecureX Orchestration and automation, explaining workflows and the programmability required.
       - layout: left
         title: HSBC
         link:
         # link_text:
-        sub_title: Application Support Specialist
+        sub_title: Application Production Support Specialist
         caption: 2019 - 2019
         quote: >
-        
+          An application specialist is responsible for the support and maintenance of application systems that are critical to the daily operations of the firm. 
         description: |
+          - BMC Control-M, Qlik View/Sense, PL/SQL, SPLUNK / AppDynamics (monitoring)
+          - Automation, analytics, database control and SIEM monitoring
+          - Responsible for changes and maintenance windows on critical systems.
+          - Responded to support requests from end users on data access and authorization.
+          - Handled incidents on critical systems responsible for credit payment decisions and anti-fraud.
+          - Maintaining infrastructure and documentation Wiki (confluence).
       - layout: left
         title: Cisco Systems, Inc.
         link:
@@ -113,8 +136,9 @@ content:
         sub_title: Technical Support Engineer
         caption: 2016 - 2018
         quote: >
-        
+           A Technical Support Engineer is responsible for providing technical support to clients in person and remotely. Giving such assistance means that it's all about solving problems from the moment they call the customer service line until the caller's issues are resolved. 
         description: |
+          - AAA
 
   - title: Education
     layout: list
@@ -149,11 +173,12 @@ content:
     layout: text
     content: |
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Billiards
       - CTFs
+            THM profile: https://tryhackme.com/p/rb3n0s
+            CTF time: https://ctftime.org/team/134736
       - 80s/90s Action Movies/Series
       - Retro Computing/Gaming
-      - Darts
+      - Darts/Billiards
       - Whiskey tasting
 
 # Footer
