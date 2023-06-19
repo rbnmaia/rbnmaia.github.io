@@ -43,47 +43,68 @@ youtube_username:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi, my name's Ruben and I'm a technical projects systems engineer. As well as administrating systems I also have experience making software and web apps.
 
   I am most skilled in: <mark>Network Security</mark> and <mark>Brainstorming</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title:
-        link:
+        title: Purple Pages
+        link: ruben-maia.gitbook.io/purplelists/
         # link_text: Project Website
         additional_links:
-          - title:
+          - title: netsec-docs
             icon: fab fa-github
-            url:
+            url: https://github.com/rbnmaia/netsec-docs
           # - title:  Github page for project
           #   icon: fab fa-github
           #   url: Link to project
         quote: >
-        
-        description: | # this will include new lines to allow paragraphs
+          This project is a living project to reflect a journey in penetration testing.
+        description: |
+          Purple Lists are a source of information to help individuals to be proficient in offensive security by providing a set of examples for each phase of a penetration test engagement.
 
+          With Purple Lists, you can set as a reference "framework" to follow while you practice your skill-set and tune it as you go, without the need of memorizing dozens of commands (over time your brain will mechanize it).
+
+          Either you are on the field or just starting, you will find some great notes to get you started.
       
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Experience
+    layout: list
     content:
       - layout: left
         title:
         link:
-        # link_text: boringcompany.com
+        # link_text:
         sub_title:
         caption:
         quote: >
         
-        description: | # this will include new lines to allow paragraphs
+        description: |
+      - layout: left
+        title:
+        link:
+        # link_text:
+        sub_title:
+        caption:
+        quote: >
         
+        description: |
+      - layout: left
+        title:
+        link:
+        # link_text:
+        sub_title:
+        caption:
+        quote: >
+        
+        description: |
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title:
@@ -91,12 +112,47 @@ content:
         sub_title:
         quote: >
         
-        description: | # this will include new lines to allow paragraphs
+        description: | 
         
+      - layout: left
+        title:
+        caption:
+        sub_title:
+        quote: >
+        
+        description: |
+  
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title:
+        caption:
+        sub_title:
+        quote: >
+        
+        description: |
+        
+      - layout: left
+        title:
+        caption:
+        sub_title:
+        quote: >
+        
+        description: |
 
+     - layout: left
+        title:
+        caption:
+        sub_title:
+        quote: >
+        
+        description: |
+
+        
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Billiards
       - Gaming
