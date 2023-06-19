@@ -42,7 +42,7 @@ youtube_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: |
   Hi, my name's Ruben and I'm a technical projects systems engineer. As well as implementing and configuring systems I also have experience making software and agile.
 
