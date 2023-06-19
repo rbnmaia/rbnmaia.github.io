@@ -44,9 +44,13 @@ youtube_username:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: |
-  Hi, my name's Ruben and I'm a technical projects systems engineer. As well as administrating systems I also have experience making software and web apps.
+  Hi, my name's Ruben and I'm a technical projects systems engineer. As well as implementing and configuring systems I also have experience making software and agile.
 
-  I am most skilled in: <mark>Network Security</mark> and <mark>Brainstorming</mark>
+  I build content oriented to Security Solutions for demo purposes to help pre and post sales teams as well as any of our partners to upskill within those labs.
+
+  From my studies I transitioned to the field the passion for CyberSecurity and Forensics, which I try to keep up in my free time still pursuing OSCP.
+
+  I am most skilled in: <mark>Network Security</mark> , <mark>CyberSecurity</mark> and <mark>Virtualization</mark>
 
 content:
   - title: Projects
