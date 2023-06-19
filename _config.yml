@@ -76,29 +76,38 @@ content:
     layout: list
     content:
       - layout: left
-        title:
+        title: Cisco Systems, Inc.
         link:
         # link_text:
-        sub_title:
-        caption:
+        sub_title: Technical Projects Systems Engineer
+        caption: 2021 - Present
         quote: >
         
         description: |
       - layout: left
-        title:
+        title: Cisco Systems, Inc.
         link:
         # link_text:
-        sub_title:
-        caption:
+        sub_title: Customer Success Specialist
+        caption: 2019 - 2021
         quote: >
         
         description: |
       - layout: left
-        title:
+        title: HSBC
         link:
         # link_text:
-        sub_title:
-        caption:
+        sub_title: Application Support Specialist
+        caption: 2019 - 2019
+        quote: >
+        
+        description: |
+      - layout: left
+        title: Cisco Systems, Inc.
+        link:
+        # link_text:
+        sub_title: Technical Support Engineer
+        caption: 2016 - 2018
         quote: >
         
         description: |
@@ -107,55 +116,39 @@ content:
     layout: list
     content:
       - layout: left
-        title:
-        caption:
-        sub_title:
+        title: Polytechnic Institute of Leiria
+        caption: 2015 - 2018
+        sub_title: MSc. Mobile Computing
         quote: >
-        
-        description: | 
+          The aim of this master's degree is to confer a professional specialization with great emphasis on mobile computing and related technologies, allowing a series of studies to the holders of a degree in Computer Engineering, and related courses, including the possibility of expertise to professionals in the labour market
+        description: |
+          Masters in Mobile Computing / Mobile Forensics / Thesis in IOT Security
         
       - layout: left
-        title:
-        caption:
-        sub_title:
+        title: Polytechnic Institute of Leiria
+        caption: 2010 - 2015
+        sub_title: BSc. Computer Engineering
         quote: >
-        
+          The degree in Computer Engineering aims to train professionals with skills in the areas of Information Systems and Information and Communication Technologies.
         description: |
+          Bachelor in Computer Engineering / Software and Networks / Final Project in Android
   
   - title: Certifications
-    layout: list
-    content:
-      - layout: left
-        title:
-        caption:
-        sub_title:
-        quote: >
-        
-        description: |
-        
-      - layout: left
-        title:
-        caption:
-        sub_title:
-        quote: >
-        
-        description: |
-
-     - layout: left
-        title:
-        caption:
-        sub_title:
-        quote: >
-        
-        description: |
-
+    layout: text
+    content: |
+      Alongside my job, I took time to certify myself into:
+      - CCNP Security
+      - CCNA CyberOps
+      - DevNet Associate
         
   - title: A Little More About Me
     layout: text
     content: |
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Billiards
-      - Gaming
+      - CTFs
+      - 80s/90s Action Movies/Series
+      - Retro Computing/Gaming
       - Darts
       - Whiskey tasting
 
