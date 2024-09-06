@@ -170,7 +170,10 @@ content:
       - Cisco Certified Network Professional Security
       - Cisco Certified Specialist - Security Identity Management Implementation
       - Cisco Certified Specialist - Security Core
+      - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
       - (ISC)² Certified in Cybersecurity
+      - Practical Junior Mobile Tester (PJMT) (in progress)
+      - eLearnSecurity Junior Penetration Tester (eJPT) (in progress)
 
   - title: Languages
     layout: text
@@ -188,7 +191,6 @@ content:
       - 80s/90s Action Movies/Series
       - Retro Computing/Gaming
       - Darts/Billiards
-      - Whiskey tasting
 
       <script src="https://tryhackme.com/badge/183334"></script>
 
